@@ -33,9 +33,9 @@ Version Control: Git, GitHub, Bitbucket
 
 ## 📫 Connect with Me
 
-GitHub: github.com/SaadHelal-IMC
+GitHub: [github.com/SaadHelal-IMC](https://github.com/SaadHelal-IMC)
 
-LinkedIn: linkedin.com/in/SaadHelal-896256167
+LinkedIn: [linkedin.com/in/SaadHelal-896256167](https://www.linkedin.com/in/saad-helal-896256167/)
 
 Email: saad.helal.sh@gmail.com
 
